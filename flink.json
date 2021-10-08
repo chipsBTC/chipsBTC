@@ -4,43 +4,43 @@
     "url": "https://www.binance.org/en/smartChain"
   },
   {
-    "name": "bitcoin",
+    "name": "Bitcoin",
     "url": "https://bitcoin.org/en/"
   },
   {
-    "name": "ethereum",
+    "name": "Ethereum",
     "url": "https://ethereum.org/en/"
   },
   {
-    "name": "binance",
+    "name": "Binance",
     "url": "https://www.binance.com/en"
   },
   {
-    "name": "coinbase",
+    "name": "Coinbase",
     "url": "https://www.coinbase.com/"
   },
   {
-    "name": "ftx",
+    "name": "Ftx",
     "url": "https://ftx.com/"
   },
   {
-    "name": "kucoin",
+    "name": "Kucoin",
     "url": "https://www.kucoin.com/"
   },
   {
-    "name": "okex",
+    "name": "Okex",
     "url": "https://www.okex.com/"
   },
   {
-    "name": "coinmarketcap",
+    "name": "Coinmarketcap",
     "url": "https://coinmarketcap.com/"
   },
   {
-    "name": "coingecko",
+    "name": "Coingecko",
     "url": "https://www.coingecko.com/"
   },
   {
-    "name": "github",
+    "name": "Github",
     "url": "https://github.com/"
   },
   {
@@ -48,15 +48,15 @@
     "url": "https://bscscan.com/address/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
   },
   {
-    "name": "dextools",
+    "name": "Dextools",
     "url": "https://www.dextools.io/app/"
   },
   {
-    "name": "poocoin",
+    "name": "Poocoin",
     "url": "https://poocoin.app/"
   },
   {
-    "name": "btclottery",
+    "name": "Btclottery",
     "url": "https://btclottery.vip/#/"
   }
 ]
