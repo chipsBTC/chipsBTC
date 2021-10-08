@@ -1,18 +1,62 @@
 [
   {
-    "name": "币安链",
+    "name": "Binance Chain ",
     "url": "https://www.binance.org/en/smartChain"
   },
   {
-    "name": "腾讯333",
-    "url": "https://www.qq.com"
+    "name": "bitcoin",
+    "url": "https://bitcoin.org/en/"
   },
   {
-    "name": "腾五",
-    "url": "https://www.qq.com"
+    "name": "ethereum",
+    "url": "https://ethereum.org/en/"
   },
   {
-    "name": "小百",
-    "url": "https://www.qq.com"
+    "name": "binance",
+    "url": "https://www.binance.com/en"
+  },
+  {
+    "name": "coinbase",
+    "url": "https://www.coinbase.com/"
+  },
+  {
+    "name": "ftx",
+    "url": "https://ftx.com/"
+  },
+  {
+    "name": "kucoin",
+    "url": "https://www.kucoin.com/"
+  },
+  {
+    "name": "okex",
+    "url": "https://www.okex.com/"
+  },
+  {
+    "name": "coinmarketcap",
+    "url": "https://coinmarketcap.com/"
+  },
+  {
+    "name": "coingecko",
+    "url": "https://www.coingecko.com/"
+  },
+  {
+    "name": "github",
+    "url": "https://github.com/"
+  },
+  {
+    "name": "Txn Hash",
+    "url": "https://bscscan.com/address/0x7130d2a12b9bcbfae4f2634d864a1ee1ce3ead9c"
+  },
+  {
+    "name": "dextools",
+    "url": "https://www.dextools.io/app/"
+  },
+  {
+    "name": "poocoin",
+    "url": "https://poocoin.app/"
+  },
+  {
+    "name": "btclottery",
+    "url": "https://btclottery.vip/#/"
   }
 ]
